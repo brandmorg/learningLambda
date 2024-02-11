@@ -1,0 +1,15 @@
+C:\Development\learningLambda\bin\Debug\net8.0\learningLambda.exe
+C:\Development\learningLambda\bin\Debug\net8.0\learningLambda.deps.json
+C:\Development\learningLambda\bin\Debug\net8.0\learningLambda.runtimeconfig.json
+C:\Development\learningLambda\bin\Debug\net8.0\learningLambda.dll
+C:\Development\learningLambda\bin\Debug\net8.0\learningLambda.pdb
+C:\Development\learningLambda\obj\Debug\net8.0\learningLambda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\learningLambda\obj\Debug\net8.0\learningLambda.AssemblyInfoInputs.cache
+C:\Development\learningLambda\obj\Debug\net8.0\learningLambda.AssemblyInfo.cs
+C:\Development\learningLambda\obj\Debug\net8.0\learningLambda.csproj.CoreCompileInputs.cache
+C:\Development\learningLambda\obj\Debug\net8.0\learningLambda.sourcelink.json
+C:\Development\learningLambda\obj\Debug\net8.0\learningLambda.dll
+C:\Development\learningLambda\obj\Debug\net8.0\refint\learningLambda.dll
+C:\Development\learningLambda\obj\Debug\net8.0\learningLambda.pdb
+C:\Development\learningLambda\obj\Debug\net8.0\learningLambda.genruntimeconfig.cache
+C:\Development\learningLambda\obj\Debug\net8.0\ref\learningLambda.dll
